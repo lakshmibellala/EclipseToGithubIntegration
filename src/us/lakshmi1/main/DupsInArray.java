@@ -1,4 +1,4 @@
-package us.lakshmi.main;
+package us.lakshmi1.main;
 
 public class DupsInArray {
 
